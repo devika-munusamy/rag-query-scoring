@@ -1,0 +1,15 @@
+# Core — pinned to compatible versions
+torch==2.2.2
+transformers==4.40.2
+sentence-transformers==2.7.0
+tokenizers==0.19.1
+
+# Retrieval
+rank-bm25==0.2.2
+scikit-learn==1.4.2
+numpy==1.26.4
+
+# Optional — only needed if using API models
+openai>=1.0.0
+cohere>=5.0.0
+FlagEmbedding>=1.2.0

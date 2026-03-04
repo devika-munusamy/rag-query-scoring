@@ -1,0 +1,10 @@
+Auth service handles user login, logout, registration, and session token management.
+Payment service processes all transactions including credit cards, UPI, and refunds.
+Database service connects to PostgreSQL on port 5432 with connection pooling via PgBouncer.
+API gateway routes incoming HTTP requests to backend microservices and handles rate limiting.
+Log anomaly detection uses LSTM sequence modeling to flag unusual log patterns.
+Notification service sends emails and SMS alerts triggered by user or system events.
+Order service tracks the full order lifecycle from creation, payment, to delivery.
+Cache service uses Redis to store frequently accessed data and reduce DB load.
+Search service uses Elasticsearch for full-text document and product search.
+Billing service calculates monthly invoices and manages subscription plans and renewals.
