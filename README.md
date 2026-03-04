@@ -33,7 +33,7 @@ rag-query-scoring/
 ## Setup
 
 ```bash
-git clone https://github.com/yourusername/rag-query-scoring
+git clone https://github.com/devika-munusamy/rag-query-scoring
 cd rag-query-scoring
 python -m venv venv
 source venv/bin/activate      # Windows: venv\Scripts\activate
