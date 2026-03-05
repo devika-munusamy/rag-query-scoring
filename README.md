@@ -76,7 +76,7 @@ Query: "how does login work?"
 
 ## Blog
 
-Read the full explanation → [Medium post link here]
+Read the full explanation on [Medium](https://medium.com/@devikakavi20/i-built-a-rag-pipeline-from-scratch-heres-every-scoring-method-that-actually-works-90d0f06dc9fe)
 
 ## Models Covered
 
